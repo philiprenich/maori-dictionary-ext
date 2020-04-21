@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Māori Dictionary Lookup",
+    "version": "1.0",
+    "description": "Look up selected word at maoridictionary.com",
+    "background": {
+        "scripts": [
+            "maoridictionarylookup.js"
+        ]
+    },
+    "permissions": [
+        "menus",
+        "activeTab"
+    ]
+}
