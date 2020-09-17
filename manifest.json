@@ -2,6 +2,8 @@
     "manifest_version": 2,
     "name": "Māori Dictionary Lookup",
     "version": "1.0",
+    "author": "Philip Renich",
+    "homepage_url": "https://github.com...",
     "description": "Look up selected word at maoridictionary.com",
     "background": {
         "scripts": [
@@ -11,5 +13,9 @@
     "permissions": [
         "menus",
         "activeTab"
-    ]
+    ],
+    "icons": {
+        "50": "icon.png",
+        "100": "icon@2x.png"
+    }
 }

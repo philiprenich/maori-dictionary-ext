@@ -1,6 +1,6 @@
 browser.menus.create({
     id: "md-lookup",
-    title: "Lookup \"%s\" in Māori Dictionary",
+    title: "Search Māori Dictionary for \"%s\"",
     contexts: ["selection"]
 });
 
